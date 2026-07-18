@@ -27,6 +27,9 @@ Benefits
 ### Pre-requites 
 - 2 Buckets (One for Source and one for destination )
 - Same or Different Region
+- enable versioning on source and destination bucket
+- IAM role for replication for source & destination bucket
+- replicaation rule
 
 Step 1. Create 2 Bucktes
 
